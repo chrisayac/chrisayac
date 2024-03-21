@@ -18,3 +18,10 @@ redes sociales: chrisayac
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 
+<<<<<<< HEAD
+## Languages
+=======
+## Lenguages
+>>>>>>> c7b87c24a292f38f594947c8c6d9147c84753246
+- English
+- Spanish
