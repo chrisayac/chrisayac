@@ -6,3 +6,7 @@ Buena atención con calidad total, facilidad de trabajar en equipo. Deseos de fo
 ## Contact me
 Numero de whatsapp: 921879667
 redes sociales: chrisayac
+
+## Lenguages
+- English
+- Spanish
