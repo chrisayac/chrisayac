@@ -20,4 +20,4 @@ redes sociales: chrisayac
 
 ## Lenguages
 - English
-- Spanish
+- Spanishg
