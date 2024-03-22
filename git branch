@@ -1,0 +1,16 @@
+*   [33m38219d1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m Merge pull request #2 from chrisayac/skills
+[31m|[m[32m\[m  
+[31m|[m *   [33m7b8a672[m Merge branch 'develop' into skills
+[31m|[m [33m|[m[31m\[m  
+[31m|[m [33m|[m[31m/[m  
+[31m|[m[31m/[m[33m|[m   
+* [33m|[m   [33m83a847b[m Merge pull request #1 from chrisayac/hobbies
+[35m|[m[36m\[m [33m\[m  
+[35m|[m * [33m|[m [33mb887dbd[m[33m ([m[1;31morigin/hobbies[m[33m, [m[1;32mhobbies[m[33m)[m hobbies section
+[35m|[m[35m/[m [33m/[m  
+[35m|[m * [33m79f6fb1[m[33m ([m[1;31morigin/skills[m[33m, [m[1;32mskills[m[33m)[m skills section
+[35m|[m[35m/[m  
+* [33maa42d19[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m contact me section
+* [33mb1fdbc7[m about me section
+* [33m533d0b9[m header
+* [33m26e2506[m creacion readme
